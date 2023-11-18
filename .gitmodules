@@ -7,3 +7,6 @@
 [submodule "music-platform-backend"]
 	path = music-platform-backend
 	url = https://github.com/API-learning-projects/music-platform-backend.git
+[submodule "banking-analytics-backend"]
+	path = banking-analytics-backend
+	url = https://github.com/API-learning-projects/banking-analytics-backend.git
