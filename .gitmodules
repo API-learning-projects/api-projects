@@ -16,3 +16,6 @@
 [submodule "plant-data-backend"]
 	path = plant-data-backend
 	url = https://github.com/API-learning-projects/plant-data-backend.git
+[submodule "storage-data-backend"]
+	path = storage-data-backend
+	url = https://github.com/API-learning-projects/storage-data-backend.git
