@@ -4,3 +4,6 @@
 [submodule "web-store-backend"]
 	path = web-store-backend
 	url = https://github.com/API-learning-projects/web-store-backend.git
+[submodule "music-platform-backend"]
+	path = music-platform-backend
+	url = https://github.com/API-learning-projects/music-platform-backend.git
