@@ -15,3 +15,18 @@ The purpose of these projects is to help learn API development using advanced te
 - GraphQL
 - WebHook
 - WebSocket
+- Caching
+- Rate limiting
+- PostgreSQL
+- MySQL
+- MSSQL
+- MongoDB
+- Redis
+- MeiliSearch
+- Weaviate
+- Neo4J
+- ScyllaDB
+- TimescaleDB
+- RabbitMQ
+- WebRTC
+- STOMP
