@@ -13,3 +13,6 @@
 [submodule "chat-system-backend"]
 	path = chat-system-backend
 	url = https://github.com/API-learning-projects/chat-system-backend.git
+[submodule "plant-data-backend"]
+	path = plant-data-backend
+	url = https://github.com/API-learning-projects/plant-data-backend.git
