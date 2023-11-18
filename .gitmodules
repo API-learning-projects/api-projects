@@ -1,0 +1,6 @@
+[submodule "library-management-backend"]
+	path = library-management-backend
+	url = https://github.com/API-learning-projects/library-management-backend.git
+[submodule "web-store-backend"]
+	path = web-store-backend
+	url = https://github.com/API-learning-projects/web-store-backend.git
